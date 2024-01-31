@@ -1,0 +1,59 @@
+body {
+   font-family: 'Lato', sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: red;
+    font-size: 40px;
+    margin-bottom: auto;
+}
+ div {
+    display: flex;
+    justify-content: center;
+    
+ }
+ .h2-container{
+   text-align: center;
+ }
+ h2 {
+    font-size: 15px;
+    margin-top: auto;
+    padding: 20px;
+    
+ }
+
+h3{
+   font-size:30px;
+   color: blueviolet;
+   text-align: center;
+   margin-top: auto;
+}
+
+h4{
+   font-size: 20px;
+   color: rgb(188, 188, 2);
+   text-align: center;
+
+}
+
+h5{
+   font-size: 20px;
+   color: rgb(188, 188, 2);
+}
+p{
+   text-align: center;
+   font-weight: bold;
+}
+
+article{
+   font-weight: bold;
+}
+
+ul{
+   font-weight: bold;
+}
+
+li{
+   margin-bottom: 10px;
+}
